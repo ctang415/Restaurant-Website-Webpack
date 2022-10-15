@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto'); 
+
+html {
+    font-family: "Roboto";
+    background: url('./cakeball.png')no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+div {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.header {
+    background-color: pink;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.copy {
+    background-color: pink;
+    border: 2px solid white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.position {
+    margin-left: 35%;
+}
+
+
+.tabs {
+    background-color: pink;
+    border: black solid 2px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+}
